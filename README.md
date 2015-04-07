@@ -1,0 +1,2 @@
+# myvim
+nerdtree + conqueterm + neocompletecache
